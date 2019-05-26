@@ -1,0 +1,1 @@
+export const ADD_AQUARIUM = 'ADD_AQUARIUM';
